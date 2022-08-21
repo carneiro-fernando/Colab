@@ -1,2 +1,4 @@
-# Colab
-My Google Colaboratory Notebooks
+# Meus Colab Notebooks
+## Curso Análise de Dados - EBAC
+
+Exercícios e projetos feitos no Google Colaboratory e salvos aqui para você conferir!
